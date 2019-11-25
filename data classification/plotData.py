@@ -59,5 +59,5 @@ b_out = 0
 w_out = [-1.2,2.0,0.1]
 z_out = np.dot(w_out,[a1,a2,a3]) = b_out
 a_out = expit(z_out)
-
+# https://erp.netcracker.com/ncobject.jsp?id=9154858648913969199
 
