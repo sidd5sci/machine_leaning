@@ -24,7 +24,7 @@ def getCirclelabel(p,center,radius):
 def getCircleData(numSamples,noise):
 
     points = []
-    radius = 5
+    radius = 5 
 
     for i in range(0 , int(numSamples/2) ):
         r = np.random.uniform(0, radius * 0.5)
